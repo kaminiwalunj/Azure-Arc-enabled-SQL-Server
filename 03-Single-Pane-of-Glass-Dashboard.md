@@ -102,9 +102,9 @@ In this, you will add a Resource Graph Grid tile that visualizes the number of s
  
 10. Your dashboard should look similar to the one shown below. You can resize individual tiles and arrange them as needed by selecting Edit at the top of the dashboard.
      
-   ![](media/E3T3S9i.png) 
+      ![](media/E3T3S9i.png) 
      
-   ![](media/E3T3S9ii.png)   
+      ![](media/E3T3S9ii.png)   
 
 11. This repo [https://azure.github.io/az-hop/user_guide/files.html](https://github.com/markm555/SQLSPOG) contains all the scripts. The scripts are regularly updated.
 

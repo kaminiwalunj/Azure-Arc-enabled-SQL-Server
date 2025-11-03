@@ -116,7 +116,7 @@ In this task, you will use the previously copied script inside the sql VM that i
       
    * **Password:** <inject key="AzureAdUserPassword"></inject> 
 
-      ![](media/GS4.png "Enter Password")
+      ![](media/GS8.png "Enter Password")
       
 1. When **Are you trying to sign into Microsoft Azure CLI?** prompted, click on **Continue** and minimize the **Browser** window. 
  
@@ -156,4 +156,4 @@ In this exercise, you onboarded an on-prem SQL Server to Azure Arc using PowerSh
 
 Now, click on **Next >>** from the lower right corner to move on to the next exercise.
 
-![](media/2-n.png)
+![](media/1-n.png)

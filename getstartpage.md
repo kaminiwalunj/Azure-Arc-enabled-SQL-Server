@@ -61,19 +61,19 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get the lab environment details, you can select the **Environment** tab. Additionally, the credentials will also be emailed to your registered email address.
 
-![](media/envi.png)
+![](media/GS2.png)
  
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
  
-![](media/splitwindow.png)
+![](media/GS3.png)
  
 ## Managing Your Virtual Machine
  
 Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
 
-![](media/resourcetab.png)
+![](media/GS4.png)
 
 ## Lab Guide Zoom In/Zoom Out
 
@@ -91,81 +91,25 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
    * **Email/Username:** <inject key="AzureAdUserEmail"></inject>
    
-      ![](media/GS3.png)
+      ![](media/GS7.png)
      
 1. Now enter the following **password** and click on **Sign in**.
    
    * **Password:** <inject key="AzureAdUserPassword"></inject>
    
-      ![](media/GS4.png)
-
-1. If you see the pop-up **Action Required**, click **Ask Later**.
-
-   ![](media/asklater.png)
-   
-1. If you see the pop-up **Stay signed in?**, select **No**.
-
-   ![](media/GS5.png)
-
-1. If a **Welcome to Microsoft Azure** popup window appears, select **Cancel** to skip the tour.
-
-   ![](media/Welcome(Eng).png "Resource groups")
-   
-## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
-
-1. If you see the pop-up **Stay Signed in?**, click **No**.
-
-1. If **Action required** pop-up window appears, click on **Next**.
-
-   ![](./media/dpg11.png)
-
-1. On **Start by getting the app** page, click on **Next**.
-
-1. Click on **Next** twice.
-
-1. In **android**, go to the play store and Search for **Microsoft Authenticator** and Tap on **Install**.
-
-   ![Install](./media/dpg12.png)
-
-   > **Note:** For iOS, open the App Store and repeat the steps.
-
-   > **Note:** Skip if already installed.
-
-1. Open the app and tap on **Scan a QR code**.
-
-1. Scan the **QR** code visible on the screen **(1)** and click on **Next (2)**.
-
-   ![QR code](./media/dpg13.png)
-
-1. Enter the digit displayed on the Screen in the **Authenticator** app on your mobile and tap on **Yes**.
-
-1. Once the notification is approved, click on **Next**.
-
-   ![Approved](./media/dpg14.png)
-
-1. Click on **Done**.
+      ![](media/GS8.png)
 
 1. If prompted to stay signed in, you can click **No**.
 
-1. Tap on **Finish** in the Mobile Device.
-
-   > **NOTE:** While logging in again, enter the digits displayed on the screen in the **Authenticator app** and click on Yes.
-
-1. If you see the pop-up **Stay Signed in?**, select **No**.
-
-1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
-
-1. If a **Welcome to Microsoft Azure** popup window appears, select **Cancel** to skip the tour.
-
-      ![](media/Welcome(Eng).png "Resource groups")
+   ![](media/GS9.png)
 
 1. Now you will see the **Azure Portal** dashboard, then click on **Resource groups** from the **Navigate** panel to see the **Resource groups**.
 
-   ![](media/English-AzureHome.png "Resource groups")
+   ![](media/GS10.png "Resource groups")
    
 1. Confirm that you have all **Resource groups** present as shown below.
 
-   ![](media/RG-list.png "Resource groups")
+   ![](media/GS11.png "Resource groups")
    
 By completing these exercises, participants will gain the skills to connect and manage both standard and legacy on-premises **SQL Server** instances using **Azure Arc**, allowing for centralized oversight through Azure. They will learn to onboard **SQL Server** instances, including **SQL Server 2016**, and create a unified management dashboard using **Azure Monitor**, providing a comprehensive view and control over their entire SQL Server environment from a single interface.
 
